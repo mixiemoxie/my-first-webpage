@@ -1,0 +1,21 @@
+h1 {
+  color: pink;
+  text-align: left;
+  font-kerning: auto;
+}
+
+h2 {
+  color: pink;
+  font-style: oblique;
+  text-align: left;
+  font-weight: bold;
+}
+
+p {
+  font-family:inherit;
+}
+
+ul {
+  font-size: 25px;
+  line-height: 35px;
+}
