@@ -1,0 +1,20 @@
+h1 {
+  color: pink;
+  text-align: left;
+}
+
+h2 {
+  color: pink;
+  font-style: italic;
+  text-align: left;
+  font-weight: bold;
+}
+
+p {
+  font-family: fantasy;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
